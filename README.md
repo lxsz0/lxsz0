@@ -4,13 +4,18 @@
 <!-- Título animado -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+lxsz+%F0%9F%91%8B;Backend+Developer+for+4+Years;Open-Source+Contributor+%F0%9F%9A%80" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=8B0000&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+lxsz+%F0%9F%91%8B;Backend+Developer+for+4+Years;Open-Source+Contributor+%F0%9F%9A%80" alt="Typing Animation" />
   </a>
 </div>
 
 <!-- Apresentação -->
 <div align="center">
-  <p>Oi, meu nome é <b style="color:#FF4C4C;">lxsz</b>, sou um <b>desenvolvedor backend</b> apaixonado por criar aplicações <b>escaláveis</b> e <b>robustas</b>.</p>
+  <p>
+    Oi, meu nome é 
+    <b style="color:#8B0000; text-shadow: 0 0 5px #FF1A1A, 0 0 10px #660000;">
+      lxsz
+    </b>, sou um <b>desenvolvedor backend</b> apaixonado por criar aplicações <b>escaláveis</b> e <b>robustas</b>.
+  </p>
   <p>Quando não estou programando, gosto de experimentar novas ferramentas, contribuir para projetos open-source e compartilhar meu conhecimento com a comunidade. 🚀</p>
 </div>
 
@@ -18,7 +23,7 @@
 
 ### 🎯 Meu Perfil no Discord
 <div align="center" style="background-color:#0D1117; padding:15px; border-radius:12px;">
-  <img src="https://api.victims.bio/discord/user/discord-arts/1298741162215215225/card" alt="discord" /> 
+  <img src="https://api.victims.bio/discord/user/discord-arts/1375245244387561526/card" alt="discord" /> 
 </div>
 
 ---
@@ -38,7 +43,7 @@
 
 ## 📊 My Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariumm&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F70000&text_color=FFFFFF" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariumm&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8B0000&text_color=FFFFFF" alt="Top Languages"/>
 </div>
 
 ---

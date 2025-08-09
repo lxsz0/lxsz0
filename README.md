@@ -4,13 +4,13 @@
 <!-- Título animado -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Carlos+Alberto+%F0%9F%91%8B;Backend+Developer+for+4+Years;Open-Source+Contributor+%F0%9F%9A%80" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+lxsz+%F0%9F%91%8B;Backend+Developer+for+4+Years;Open-Source+Contributor+%F0%9F%9A%80" alt="Typing Animation" />
   </a>
 </div>
 
 <!-- Apresentação -->
 <div align="center">
-  <p>Oi, meu nome é <b style="color:#F70000;">Carlos</b>, sou um <b>desenvolvedor backend</b> apaixonado por criar aplicações <b>escaláveis</b> e <b>robustas</b>.</p>
+  <p>Oi, meu nome é <b style="color:#FF4C4C;">lxsz</b>, sou um <b>desenvolvedor backend</b> apaixonado por criar aplicações <b>escaláveis</b> e <b>robustas</b>.</p>
   <p>Quando não estou programando, gosto de experimentar novas ferramentas, contribuir para projetos open-source e compartilhar meu conhecimento com a comunidade. 🚀</p>
 </div>
 
@@ -45,8 +45,8 @@
 
 ## 📫 Connect with Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/carlossilvaaf" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-CarlosSilva-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <a href="https://www.linkedin.com/in/lxsz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-lxsz-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
 </div>
 
